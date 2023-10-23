@@ -1,0 +1,7 @@
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Anbarasan\source\repos\XTrain\ReverseString\obj\Debug\ReverseString.pdb

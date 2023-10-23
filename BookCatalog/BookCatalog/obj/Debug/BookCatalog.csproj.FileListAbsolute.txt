@@ -1,0 +1,7 @@
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\obj\Debug\BookCatalog.csprojAssemblyReference.cache
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\obj\Debug\BookCatalog.csproj.CoreCompileInputs.cache
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\bin\Debug\BookCatalog.exe.config
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\bin\Debug\BookCatalog.exe
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\bin\Debug\BookCatalog.pdb
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\obj\Debug\BookCatalog.exe
+c:\users\anbarasan\source\repos\BookCatalog\BookCatalog\obj\Debug\BookCatalog.pdb
