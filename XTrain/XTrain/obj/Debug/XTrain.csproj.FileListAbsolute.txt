@@ -5,3 +5,10 @@ C:\Users\Anbarasan\source\repos\XTrain\XTrain\obj\Debug\XTrain.csprojAssemblyRef
 C:\Users\Anbarasan\source\repos\XTrain\XTrain\obj\Debug\XTrain.csproj.CoreCompileInputs.cache
 C:\Users\Anbarasan\source\repos\XTrain\XTrain\obj\Debug\XTrain.exe
 C:\Users\Anbarasan\source\repos\XTrain\XTrain\obj\Debug\XTrain.pdb
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\bin\Debug\XTrain.exe.config
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\bin\Debug\XTrain.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\bin\Debug\XTrain.pdb
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\obj\Debug\XTrain.csprojAssemblyReference.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\obj\Debug\XTrain.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\obj\Debug\XTrain.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\XTrain\obj\Debug\XTrain.pdb

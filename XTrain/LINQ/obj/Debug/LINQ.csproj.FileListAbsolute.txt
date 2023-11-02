@@ -1,0 +1,6 @@
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\bin\Debug\LINQ.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\obj\Debug\LINQ.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LINQ\obj\Debug\LINQ.pdb

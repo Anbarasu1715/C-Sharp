@@ -5,3 +5,7 @@ C:\Users\Anbarasan\source\repos\XTrain\LamdaExpressions\obj\Debug\LamdaExpressio
 C:\Users\Anbarasan\source\repos\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.exe
 C:\Users\Anbarasan\source\repos\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.pdb
 C:\Users\Anbarasan\source\repos\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.csprojAssemblyReference.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.csprojAssemblyReference.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\LamdaExpressions\obj\Debug\LamdaExpressions.pdb

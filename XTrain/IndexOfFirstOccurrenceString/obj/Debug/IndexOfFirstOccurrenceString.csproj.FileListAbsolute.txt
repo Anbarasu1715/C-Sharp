@@ -1,0 +1,7 @@
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\bin\Debug\IndexOfFirstOccurrenceString.exe.config
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\bin\Debug\IndexOfFirstOccurrenceString.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\bin\Debug\IndexOfFirstOccurrenceString.pdb
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\obj\Debug\IndexOfFirstOccurrenceString.csprojAssemblyReference.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\obj\Debug\IndexOfFirstOccurrenceString.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\obj\Debug\IndexOfFirstOccurrenceString.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\IndexOfFirstOccurrenceString\obj\Debug\IndexOfFirstOccurrenceString.pdb

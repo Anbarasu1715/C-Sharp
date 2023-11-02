@@ -1,0 +1,6 @@
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Anbarasan\source\C-Sharp\XTrain\BubbleSort\obj\Debug\BubbleSort.pdb
