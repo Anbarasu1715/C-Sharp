@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateFromTheSorte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfFirstOccurrenceString", "IndexOfFirstOccurrenceString\IndexOfFirstOccurrenceString.csproj", "{21EBEF28-FB89-4934-AC1C-44B06D1C81FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateList", "RotateList\RotateList.csproj", "{B17B871E-1CC5-415E-85D5-7DFA9256483A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{21EBEF28-FB89-4934-AC1C-44B06D1C81FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21EBEF28-FB89-4934-AC1C-44B06D1C81FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21EBEF28-FB89-4934-AC1C-44B06D1C81FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17B871E-1CC5-415E-85D5-7DFA9256483A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17B871E-1CC5-415E-85D5-7DFA9256483A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17B871E-1CC5-415E-85D5-7DFA9256483A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17B871E-1CC5-415E-85D5-7DFA9256483A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
