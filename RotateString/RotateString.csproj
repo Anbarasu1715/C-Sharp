@@ -4,15 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FE794591-B473-4DC3-B7B8-0A904794E39C}</ProjectGuid>
+    <ProjectGuid>{32BACBE7-71CA-4A23-9E5F-709958C7F8F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Counting_Bits</RootNamespace>
-    <AssemblyName>Counting Bits</AssemblyName>
+    <RootNamespace>RotateString</RootNamespace>
+    <AssemblyName>RotateString</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

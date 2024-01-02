@@ -4,15 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FE794591-B473-4DC3-B7B8-0A904794E39C}</ProjectGuid>
+    <ProjectGuid>{5C2A5C93-40DE-4448-99C5-00000216CD1F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Counting_Bits</RootNamespace>
-    <AssemblyName>Counting Bits</AssemblyName>
+    <RootNamespace>WordPattern</RootNamespace>
+    <AssemblyName>WordPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
