@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "..\RotateArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateString", "..\RotateString\RotateString.csproj", "{32BACBE7-71CA-4A23-9E5F-709958C7F8F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "..\LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{538CAC8B-A226-43AB-82C2-4432A7B4F95E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{32BACBE7-71CA-4A23-9E5F-709958C7F8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32BACBE7-71CA-4A23-9E5F-709958C7F8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32BACBE7-71CA-4A23-9E5F-709958C7F8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538CAC8B-A226-43AB-82C2-4432A7B4F95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538CAC8B-A226-43AB-82C2-4432A7B4F95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538CAC8B-A226-43AB-82C2-4432A7B4F95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538CAC8B-A226-43AB-82C2-4432A7B4F95E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

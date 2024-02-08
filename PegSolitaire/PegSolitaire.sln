@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PegSolitaire", "PegSolitaire\PegSolitaire.csproj", "{700DED16-4719-4601-ACB9-16AEA2E3DA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700DED16-4719-4601-ACB9-16AEA2E3DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700DED16-4719-4601-ACB9-16AEA2E3DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700DED16-4719-4601-ACB9-16AEA2E3DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700DED16-4719-4601-ACB9-16AEA2E3DA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B97F593-A8D6-4819-B8B3-7DE3D7B2ED6C}
+	EndGlobalSection
+EndGlobal
